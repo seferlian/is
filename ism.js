@@ -7,7 +7,6 @@ document.getElementById('fork').style.display='none';
 }
 tano=!tano;
 }
-alert(1);
 
 //куки:
 function set_cookie(name, value, expires)
